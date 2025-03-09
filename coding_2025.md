@@ -16,3 +16,8 @@ Projects fall into three main groups:
 - **code_archive** – Experimental or inactive projects that are stored for potential future use.  
 
 The ultimate goal is to transition most projects into **code_product** status.  
+
+## Gamification  
+
+The idea is to code for a set amount of time and, as a "reward," receive an equal amount of pure playtime.  
+Another aspect of this approach is to make coding itself feel like a game.  
